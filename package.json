@@ -1,0 +1,9 @@
+{
+  "name": "mockerify",
+  "version": "0.0.1",
+  "description": "personal purpose lib",
+  "main": "index.js",
+  "author": "dhmfu",
+  "license": "ISC",
+  "repository": "https://github.com/dhmfu/mockerify"
+}
